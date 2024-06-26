@@ -1,7 +1,7 @@
 import machine
 from time import sleep_ms
 from machine import Pin
-from utime import sleep, sleep_ms
+from utime import sleep_ms
 from ds18x20 import DS18X20
 from onewire import OneWire
 
